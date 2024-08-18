@@ -65,8 +65,7 @@
   <br>
   <br>
 
-  <!--cobrinha-->
-  ![Snake animation](https://github.com/rafaballerini/Ana-Beatriz12/blog/outpod/github-contribution-grid-snake.svg)
+
   
 
 
