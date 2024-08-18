@@ -66,9 +66,27 @@
   <br>
 
 
-  <h1>Projetos Design🌈🌟</h1>
+  <h1>Projetos Design Web🌈🌟</h1>
+  <br>
+    <h3>Ice Cream World🍧🍨</h3>
   <div align="center">
+     <img src="https://github.com/user-attachments/assets/fc075d3b-4c2f-497f-8a03-cc38cf4ba023">
+     <img src="https://github.com/user-attachments/assets/777eb378-f90f-442d-87f9-5b26fc9af0bb">
+     <img src="https://github.com/user-attachments/assets/3999635d-5598-4c6f-8014-08544b2e8c20">
+     <img src="https://github.com/user-attachments/assets/4f4bfcc3-ff5b-4348-82da-56bb9c7cc902">
+     <img src="https://github.com/user-attachments/assets/6180eb7e-ae7f-409f-bbee-85211230239c">
+     <img src="https://github.com/user-attachments/assets/7c43a68d-a470-4e9b-8512-83ebc06c2612">
+     <img src="https://github.com/user-attachments/assets/2888fc1a-77be-43d2-a30c-cc6a50aea2dc">
     
+   
+  </div>
+
+  <br>
+    <h1>Projetos Design Mobile🌈🌟</h1>
+    <h3>Tic Tac Toe👾👳‍♀️</h3>
+  <div align="center">
+     
+   
   </div>
 
 
