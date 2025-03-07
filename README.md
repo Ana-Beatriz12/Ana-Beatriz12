@@ -2,10 +2,14 @@
 
 
 - 🔭 Gosto de trabalhar com a metodologia Front-end; e  Web design;
-- 🌱 Estudando Html, Css, Javascript, Php, Mysql, e Angular
+- 🌱 Estudando Html, Css, Javascript, Php, Mysql.
 - 📫 Contate-me no email: anabeatrizbroetto@gmail.com
 - 😄 Pronouns: ela/dela
-- ⚡ Curiosidades sobre mim: Amo programar e desenvolver protótipos web, também gosto de escrever e ler.
+- ⚡ Curiosidades sobre mim: Eu sou Ana Beatriz, estudante de Tecnologia da Informação na Universidade Federal de Mato Grosso do Sul (UFMS) e recentemente aprovada no curso de Desenvolvimento de Sistemas pelo Senac Hub Academy. Tenho uma paixão especial pelo desenvolvimento front-end, onde posso combinar minha criatividade com habilidades técnicas para criar interfaces de usuário intuitivas e atraentes.
+
+Estou sempre em busca de novos desafios e oportunidades de aprendizado que me permitam aprimorar minhas competências e contribuir de maneira significativa para projetos inovadores. Com uma abordagem proativa e dedicada, estou comprometida em desenvolver soluções que não apenas atendam às necessidades dos usuários, mas também proporcionem uma experiência excepcional.
+
+Se você está procurando alguém motivado e capacitado para integrar sua equipe ou colaborar em projetos desafiadores, ficarei muito feliz em conectar e explorar oportunidades juntos!
 
 
 <!--redes sociais-->
