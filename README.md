@@ -85,6 +85,11 @@ Se você está procurando alguém motivado e capacitado para integrar sua equipe
    
   </div>
 
+  <h3>🍦 Site Ice Cream World: 🍦 </h3>
+  <div align="center">
+    <a href="https://ice-cream-world.netlify.app/">
+  </div>
+
   <br>
     <h1>Projetos Design Mobile🌈🌟</h1>
     <h3>Tic Tac Toe👾👳‍♀️</h3>
