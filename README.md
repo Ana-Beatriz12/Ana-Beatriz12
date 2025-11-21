@@ -96,17 +96,7 @@ Se você está procurando alguém motivado e capacitado para integrar sua equipe
   <br>
 
 
-  <br>
-    <h1>Projetos Design Mobile🌈🌟</h1>
-    <h3>Tic Tac Toe👾👳‍♀️</h3>
-  <div align="center">
-      <img src="https://github.com/user-attachments/assets/417ca9c2-2ac1-4ea0-ae1a-826099513020">
-     <img src="https://github.com/user-attachments/assets/6aec0719-3b05-4c53-9d68-85f51164b4ca">
-     <img src="https://github.com/user-attachments/assets/634db94f-deca-41c0-adb3-cef338b1e099">
-     <img src="https://github.com/user-attachments/assets/161f9373-43e1-4bac-aefe-fd16bb4b84da">
-     <img src="https://github.com/user-attachments/assets/0cd96a10-66ec-43f4-bdd4-fd2e5626119f">
-  </div>
-
+  
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ana-Beatriz12/Ana-Beatriz12/output/pacman-contribution-graph-dark.svg">
