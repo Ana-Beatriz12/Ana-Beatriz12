@@ -72,31 +72,41 @@ Se você está procurando alguém motivado e capacitado para integrar sua equipe
 
   <h1>Projetos Design Web🌈🌟</h1>
   <br>
-    <h3>Ice Cream World🍧🍨</h3>
+    <h3>🍦 Site Ice Cream World: 🍦 </h3>
   <div align="center">
-     <img src="https://github.com/user-attachments/assets/fc075d3b-4c2f-497f-8a03-cc38cf4ba023">
-     <img src="">
-     <img src="https://github.com/user-attachments/assets/3999635d-5598-4c6f-8014-08544b2e8c20">
-     <img src="https://github.com/user-attachments/assets/4f4bfcc3-ff5b-4348-82da-56bb9c7cc902">
-     <img src="https://github.com/user-attachments/assets/6180eb7e-ae7f-409f-bbee-85211230239c">
-     <img src="https://github.com/user-attachments/assets/7c43a68d-a470-4e9b-8512-83ebc06c2612">
-     <img src="https://github.com/user-attachments/assets/2888fc1a-77be-43d2-a30c-cc6a50aea2dc">
-     <img src="https://github.com/user-attachments/assets/">
-     
-    
-   
+    <a href="https://ice-cream-world.netlify.app" target="_blank">
+     <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/7b987981-c7dc-4843-a373-51ccabca44eb"/>
+    </a>
   </div>
+  <br>
+    <h3>🍦 Protótipo Ice Cream World: 🍦 </h3>
+  <div align="center">
+    <a href="[https://ice-cream-world.netlify.app](https://www.figma.com/design/mwJ10oaFqiL9ufaigDst3v/Ice-cream-word--broetto-site?node-id=2-3&t=yyheDfxj8NmJ4ycJ-0)" target="_blank">
+     <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/7b987981-c7dc-4843-a373-51ccabca44eb"/>
+    </a>
+  </div>
+  
+  <br>
+    <h3>🔧 Site Portfólio Elton Monteiro Broetto (Design Figma): 🔧 </h3>
+  <div align="center">
+    <a href="https://www.figma.com/design/jAPP1XLrZzQ5cHJvnQNlvG/PORTFOLIO-PAI?node-id=10-68&t=EXN2ePOXamnIcuK5-1" target="_blank">
+    <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/61f7a447-74e6-4da8-a7cd-cec245c7d28f" />
+    </a>
+  </div>
+  <br>
 
-  <h3>🍦 Site Ice Cream World: 🍦 </h3>
-  <div align="center">
-    <a href="https://ice-cream-world.netlify.app/">
-  </div>
 
   <br>
     <h1>Projetos Design Mobile🌈🌟</h1>
     <h3>Tic Tac Toe👾👳‍♀️</h3>
   <div align="center">
+      <img src="https://github.com/user-attachments/assets/417ca9c2-2ac1-4ea0-ae1a-826099513020">
+     <img src="https://github.com/user-attachments/assets/6aec0719-3b05-4c53-9d68-85f51164b4ca">
+     <img src="https://github.com/user-attachments/assets/634db94f-deca-41c0-adb3-cef338b1e099">
+     <img src="https://github.com/user-attachments/assets/161f9373-43e1-4bac-aefe-fd16bb4b84da">
+     <img src="https://github.com/user-attachments/assets/0cd96a10-66ec-43f4-bdd4-fd2e5626119f">
   </div>
+
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ana-Beatriz12/Ana-Beatriz12/output/pacman-contribution-graph-dark.svg">
