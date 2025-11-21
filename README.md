@@ -101,6 +101,14 @@ Se você está procurando alguém motivado e capacitado para integrar sua equipe
      <img src="https://github.com/user-attachments/assets/0cd96a10-66ec-43f4-bdd4-fd2e5626119f">
   </div>
 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ana-Beatriz12/Ana-Beatriz12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ana-Beatriz12/Ana-Beatriz12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ana-Beatriz12/Ana-Beatriz12/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 
 
