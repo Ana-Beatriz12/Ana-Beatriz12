@@ -81,6 +81,8 @@ Se você está procurando alguém motivado e capacitado para integrar sua equipe
      <img src="https://github.com/user-attachments/assets/6180eb7e-ae7f-409f-bbee-85211230239c">
      <img src="https://github.com/user-attachments/assets/7c43a68d-a470-4e9b-8512-83ebc06c2612">
      <img src="https://github.com/user-attachments/assets/2888fc1a-77be-43d2-a30c-cc6a50aea2dc">
+     <img src="https://github.com/user-attachments/assets/">
+     
     
    
   </div>
@@ -94,11 +96,6 @@ Se você está procurando alguém motivado e capacitado para integrar sua equipe
     <h1>Projetos Design Mobile🌈🌟</h1>
     <h3>Tic Tac Toe👾👳‍♀️</h3>
   <div align="center">
-      <img src="https://github.com/user-attachments/assets/417ca9c2-2ac1-4ea0-ae1a-826099513020">
-     <img src="https://github.com/user-attachments/assets/6aec0719-3b05-4c53-9d68-85f51164b4ca">
-     <img src="https://github.com/user-attachments/assets/634db94f-deca-41c0-adb3-cef338b1e099">
-     <img src="https://github.com/user-attachments/assets/161f9373-43e1-4bac-aefe-fd16bb4b84da">
-     <img src="https://github.com/user-attachments/assets/0cd96a10-66ec-43f4-bdd4-fd2e5626119f">
   </div>
 
   <picture>
