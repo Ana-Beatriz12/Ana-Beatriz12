@@ -81,7 +81,7 @@ Se você está procurando alguém motivado e capacitado para integrar sua equipe
   <br>
     <h3>🍦 Protótipo Ice Cream World: 🍦 </h3>
   <div align="center">
-    <a href="[https://ice-cream-world.netlify.app](https://www.figma.com/design/mwJ10oaFqiL9ufaigDst3v/Ice-cream-word--broetto-site?node-id=2-3&t=yyheDfxj8NmJ4ycJ-0)" target="_blank">
+    <a href="www.figma.com/design/mwJ10oaFqiL9ufaigDst3v/Ice-cream-word--broetto-site?node-id=2-3&t=yyheDfxj8NmJ4ycJ-0" target="_blank">
      <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/7b987981-c7dc-4843-a373-51ccabca44eb"/>
     </a>
   </div>
