@@ -1,11 +1,14 @@
 ## Hello, my name is Ana Beatriz Bento Broetto👋💕
 
 
-- 🔭 Gosto de trabalhar com a metodologia Front-end; e  Web design;
-- 🌱 Estudando Html, Css, Javascript, Php, Mysql.
+- 🔭 Gosto de trabalhar com Full-Stack; e  Web design;
+- 🌱 Estudando Html, Css, Javascript, Php, Mysql e Oracle.
 - 📫 Contate-me no email: anabeatrizbroetto@gmail.com
 - 😄 Pronouns: ela/dela
-- ⚡ Curiosidades sobre mim: Eu sou Ana Beatriz, estudante de Tecnologia da Informação na Universidade Federal de Mato Grosso do Sul (UFMS) e recentemente aprovada no curso de Desenvolvimento de Sistemas pelo Senac Hub Academy. Tenho uma paixão especial pelo desenvolvimento front-end, onde posso combinar minha criatividade com habilidades técnicas para criar interfaces de usuário intuitivas e atraentes.
+- ⚡ Curiosidades sobre mim: Eu sou Ana Beatriz, estudante de Tecnologia da Informação na Universidade Federal de Mato Grosso do Sul (UFMS) e recentemente aprovada no curso de Desenvolvimento de Sistemas pelo Senac Hub Academy. Sou desenvolvedora com atuação Full-Stack, focada na construção de aplicações web completas e eficientes.
+Durante meu estágio, trabalhei com construção de interfaces responsivas utilizando HTML, CSS e JavaScript, além de atuar na integração com back-end usando PHP e consumo de APIs com JSON. Também possuo experiência com bancos de dados como MySQL e Oracle, realizando conexões e manipulação de dados.
+Tenho perfil proativo, facilidade de aprendizado e estou em constante evolução técnica, buscando aprimorar minhas habilidades para desenvolver soluções completas, eficientes e centradas na experiência do usuário.
+
 
 Estou sempre em busca de novos desafios e oportunidades de aprendizado que me permitam aprimorar minhas competências e contribuir de maneira significativa para projetos inovadores. Com uma abordagem proativa e dedicada, estou comprometida em desenvolver soluções que não apenas atendam às necessidades dos usuários, mas também proporcionem uma experiência excepcional.
 
