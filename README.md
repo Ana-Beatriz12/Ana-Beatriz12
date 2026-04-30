@@ -96,6 +96,12 @@ Se você está procurando alguém motivado e capacitado para integrar sua equipe
     </a>
   </div>
   <br>
+  <h3>🔧Portfólio Elton Monteiro Broetto (Site): 🔧 </h3>
+  <div align="center">
+    <a href="https://portifolio-emb-testemunhas.dosgabrielbrito.com/" target="_blank">
+    <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/61f7a447-74e6-4da8-a7cd-cec245c7d28f" />
+    </a>
+  </div>
 
 
   
