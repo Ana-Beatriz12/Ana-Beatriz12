@@ -74,6 +74,14 @@ Se você está procurando alguém motivado e capacitado para integrar sua equipe
 
   <h1>Projetos Design Web🌈🌟</h1>
   <br>
+    <h3> 💻​ Portfólio Ana Beatriz Bento Broetto 💻 </h3>
+  <div align="center">
+    <a href="https://portfolioanabeatriz.netlify.app/" target="_blank">
+     <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/7b987981-c7dc-4843-a373-51ccabca44eb"/>
+    </a>
+  </div>
+  <br>
+  <br>
     <h3>🍦 Site Ice Cream World: 🍦 </h3>
   <div align="center">
     <a href="https://ice-cream-world.netlify.app" target="_blank">
