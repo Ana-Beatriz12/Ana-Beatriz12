@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img data-importer="image" width="1590" height="400" src="img-principal.png"  />
 </div>
 
 ###
@@ -20,15 +20,17 @@
 
 ###
 
-<h1 data-importer="text" align="left">Sou Ana Beatriz, Tecnóloga em Tecnologia da Informação pela Universidade Federal de Mato Grosso do Sul (UFMS) e formada em Desenvolvimento de Sistemas pelo Senac Hub Academy. Atuo na área de tecnologia, com experiência em desenvolvimento Full-Stack, construção e manutenção de aplicações web, utilizando HTML, CSS, JavaScript, PHP e bancos de dados relacionais. Tenho interesse em desenvolver soluções eficientes, aprimorar minhas habilidades e ampliar meus conhecimentos em diferentes tecnologias, sempre buscando unir aprendizado e prática.</h1>
 
-###
+<img src="img-sobreMim.png" alt="Ilustração sobre mim" width="400" height="350" align="right">
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
-###
+<h2 align="left">
+  Sou Ana Beatriz, Tecnóloga em Tecnologia da Informação pela Universidade Federal de Mato Grosso do Sul (UFMS) e formada em Desenvolvimento de Sistemas pelo Senac Hub Academy. Atuo na área de tecnologia, com experiência em desenvolvimento Full-Stack, construção e manutenção de aplicações web, utilizando HTML, CSS, JavaScript, PHP e bancos de dados relacionais. Tenho interesse em desenvolver soluções eficientes, aprimorar minhas habilidades e ampliar meus conhecimentos em diferentes tecnologias, sempre buscando unir aprendizado e prática.
+</h2>
+
+
+<br>
+
 
 <h1 data-importer="text" align="center">🤝 Contate-me</h1>
 
@@ -37,12 +39,23 @@
 <br clear="both">
 
 <div data-importer="socials" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="130" height="50" alt="linkedin logo"  />
+   <a href="https://www.linkedin.com/in/ana-beatriz-bento-broetto-27a075279/" target="_blank">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="130" height="50" alt="linkedin logo"  />
+   </a>
+  
+  <a href = "mailto:contatoraanabeatrizbroetto@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="130" height="50" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="130" height="50" alt="instagram logo"  />
+  </a>
+  
+   <a href="https://www.instagram.com/anabeatrizbia248?igsh=MWZ1d3pxYWRseXdpOQ%3D%3D" target="_blank">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="130" height="50" alt="instagram logo"  />
+   </a>
+  
 </div>
 
 ###
+
+<br clear="both">
 
 <h1 data-importer="text" align="center">👾 Stacks</h1>
 
@@ -70,13 +83,21 @@
 
 ###
 
-<h1 data-importer="text" align="center">✍Git Hub Statics</h1>
+<h1 data-importer="text" align="center">✍Git Hub Stats</h1>
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Ana-Beatriz12/Ana-Beatriz12/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Ana-Beatriz12/Ana-Beatriz12/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+<img
+    src="https://github-readme-stats.vercel.app/api?username=Ana-Beatriz12&show_icons=true&include_all_commits=true&theme=dracula&locale=pt-br"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Beatriz12&layout=compact&langs_count=5&theme=dracula&locale=pt-br"
+    height="180"
+    alt="Linguagens mais utilizadas"
+  />
 </div>
 
 ###
