@@ -87,18 +87,7 @@
 
 ###
 
-<div align="center">
-<img
-    src="https://github-readme-stats.vercel.app/api?username=Ana-Beatriz12&show_icons=true&include_all_commits=true&theme=dracula&locale=pt-br"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Beatriz12&layout=compact&langs_count=5&theme=dracula&locale=pt-br"
-    height="180"
-    alt="Linguagens mais utilizadas"
-  />
-</div>
+[![Ana-Beatriz12 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana-Beatriz12)](https://github.com/Ana-Beatriz12/github-readme-stats)
 
 ###
 
